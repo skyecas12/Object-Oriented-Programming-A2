@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>DiceGame_Assignment_2_OOP_S.C</RootNamespace>
+  </PropertyGroup>
+
+</Project>
